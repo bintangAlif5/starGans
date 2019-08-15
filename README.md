@@ -1,10 +1,10 @@
-# starGans
-* Creator Contact<br>
-My wa : 0895422939836<br>
-Facebook : https://facebook.com/BintangAlifff <br>
-Instagram : @bintang_alif16
 
-*To Install
+* Creator Contact<br>
+* My wa : 0895422939836<br>
+* Facebook : https://facebook.com/BintangAlifff <br>
+* Instagram : @bintang_alif16
+
+# To Install
 ```
 $ pkg upgrade && pkg update
 $ pkg install lolcat figlet git
