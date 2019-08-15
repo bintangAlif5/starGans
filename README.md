@@ -13,6 +13,7 @@ $ pip install requests
 $ git clone https://github.com/bintangAlif5/starGans
 $ cd starGans
 $ sh mulai.sh
-``` <br>
+``` 
+<br>
 - I hope your happy using my tools :)
 - Please Don't Recode my tools, this tools have copyright :)
