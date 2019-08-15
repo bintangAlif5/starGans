@@ -15,5 +15,5 @@ $ cd starGans
 $ sh mulai.sh
 ``` 
 <br>
-- I hope your happy using my tools :)
+- I hope your happy using my tools :)<br>
 - Please Don't Recode my tools, this tools have copyright :)
