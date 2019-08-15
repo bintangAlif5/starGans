@@ -1,4 +1,4 @@
-echo  #!/bin/bash
+#!/bin/bash
 
 Yell="\033[33;1m"; # Yellow light
 gre="\033[32;1m"; # Green light
