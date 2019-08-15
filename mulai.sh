@@ -11,7 +11,7 @@ Bir="\033[96;1m"; # Blue Aqua
 echo "____________________________________\n";
     echo $Mer"1).$gre Wp-injection tools";
     echo $Mer"2).$gre Mass mirror Hackersid";
-    echo $Mer"3).$gre Bin Checker Script";
+    echo $Mer"00).$gre Exit";
     echo "$Mer Creator$Yell r00t@star$Norm |$Ter Sunda Cyber Army";
     echo $Ter"Note :$gre If error please contact me ($YellReadme.md$gre)";
     echo $Norm"____________________________________";
@@ -26,4 +26,10 @@ if [ $star = 2 ] || [ $star = 2 ]
 then
 sleep 2
 python2 mass.py
+fi
+if [ $star = 00 ] || [ $star = ]
+then
+sleep 2
+echo $Ter"Thank you for visiting my tools$Norm"
+exit
 fi
