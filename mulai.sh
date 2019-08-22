@@ -27,7 +27,7 @@ then
 sleep 2
 python2 mass.py
 fi
-if [ $star = 00 ] || [ $star = ]
+if [ $star = 00 ] || [ $star = 00 ]
 then
 sleep 2
 echo $Ter"Thank you for visiting my tools$Norm"
